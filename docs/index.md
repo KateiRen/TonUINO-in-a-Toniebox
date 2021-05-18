@@ -4,7 +4,7 @@ I love the simplicity and ruggedized/soft enclosure of [Toniebox](https://tonies
 
 On the other hand, [tonUINO](https://www.tonuino.de/) seems to provide the perfect alternative for hobbyists with a soldering iron and some knowledge of electronics.
 
-So the idea was born to build a [tonUINO](https://www.tonuino.de/) inside the enclosure of a [Toniebox](https://tonies.de/toniebox/). So I bought a malfunctioning box on ebay put it in a drawer and - almost a year later ¯\\_(ツ)_/¯ - started to implement the idea. 
+So the idea was born to build a [tonUINO](https://www.tonuino.de/) inside the enclosure of a [Toniebox](https://tonies.de/toniebox/). I bought a malfunctioning box on ebay put it in a drawer and - almost a year later ¯\\_(ツ)_/¯ - started to implement the idea. 
 
 
 ## Features
