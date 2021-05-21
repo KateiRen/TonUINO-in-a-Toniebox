@@ -18,3 +18,13 @@ Charging and easy access to the SD-Card is possible through a single micro USB p
 ## What's inside
 
 To get the best formfactor possible, I used the official PCB with jumper wires to establish connections.
+
+- the Toniebox, hollowed out except for the speaker and the ear-buttons
+- a power switch
+- a pause/play push button
+- the official TonUINO PCB
+- an Arduino nano
+- the DFPlayer with a 32 GB SDcard
+- an RC522 sensor board
+- a 18650 battery
+- the WAVGAT D1 mini battery shield
