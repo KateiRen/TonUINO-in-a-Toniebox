@@ -33,4 +33,4 @@ To get the best formfactor possible, I used the official PCB with jumper wires t
 
 Want to see more?
 - [A look inside](https://kateiren.github.io/TonUINO-in-a-Toniebox/lookinside)
-- [Some scripts to help managing SD card content](https://kateiren.github.io/TonUINO-in-a-Toniebox/final%20thoughts)
+- [Some scripts to help managing SD card content](https://kateiren.github.io/TonUINO-in-a-Toniebox/scripts)
