@@ -31,6 +31,7 @@ Not sure if I would recommend this approach - a bigger box would at least provid
 - The hole  needs some widening though.
  
 ![Top]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210523_100640.jpg)
-- The frame between the inner square and the outer assembling groove is very narrow.
-- The initial idea of using a power switch with a built in LED had to be rejected.
 - The play/pause button sits in the slightly widened former headphone opening.
+- The initial idea of using a power switch with a built in LED had to be rejected. The frame between the inner square and the outer assembling groove is too narrow.
+- However some kind of LED would be quite useful to indicate power on when no playback is running...
+
