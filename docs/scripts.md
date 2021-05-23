@@ -1,4 +1,4 @@
-# Some scripts to get going
+# Some scripts to help managing SD card content
 
 The scripts are prepared to run in a jupyter notebook. 
 
