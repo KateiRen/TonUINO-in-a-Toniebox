@@ -1,6 +1,6 @@
 ## Why?
 
-![TonuINO in a Toniebox - Front]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210523_100616.png)
+![TonuINO in a Toniebox - Front]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210523_100616_320.png)
 
 I love the simplicity and ruggedized/soft enclosure of [Toniebox](https://tonies.de/toniebox/). However, as a closed system it has some drawbacks like the limited playtime per tonie not to mention the price per tonie and the price of the base system.
 
