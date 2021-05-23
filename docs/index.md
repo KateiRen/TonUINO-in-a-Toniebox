@@ -13,7 +13,7 @@ The box builds on the three button version of [tonUINO](https://www.tonuino.de/)
 
 The box runs on its own with a built in LiPo battery and a charging battery shield. 
 
-Charging and easy access to the SD-Card is possible through a single micro USB port at te bottom.
+Charging and transfering files to the SD-Card is possible through a single micro USB port at the bottom opening of the box.
 
 ## What's inside
 
