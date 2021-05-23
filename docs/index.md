@@ -28,3 +28,6 @@ To get the best formfactor possible, I used the official PCB with jumper wires t
 - an RC522 sensor board
 - a 18650 battery
 - the WAVGAT D1 mini battery shield
+
+Want to see more?
+[A look inside](https://kateiren.github.io/TonUINO-in-a-Toniebox/final%20thoughts)
