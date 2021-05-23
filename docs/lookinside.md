@@ -1,7 +1,9 @@
 # A look inside
 
 ![The RFID Reader]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210518_214456.jpg)
-The jumper wires needed some glue to stay in place while moving the components.
+- The jumper wires needed some glue to stay in place while moving the components.
+- The inner parts needed some tooling to make more space for the new RFID reader.
+- The surface where the Tonies originally are placed on was stripped of its metallic layer to allow RFID communication with the smaller new reader.
 
 ![The USB data connection]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210518_221647.jpg)
 In order to access the SD card without opening the box, we need to access the USB- and USB+ lines of the DFMini player. Unfortunately that is not part of the PCB design.
