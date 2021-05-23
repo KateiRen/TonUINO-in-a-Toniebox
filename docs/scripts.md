@@ -1,4 +1,4 @@
-# Some scripts toget going
+# Some scripts to cget going
 
 The scripts are prepared to run in a jupyter notebook. 
 
