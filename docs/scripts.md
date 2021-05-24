@@ -1,8 +1,20 @@
 # Some scripts to help managing SD card content
 
-The scripts are prepared to run in a jupyter notebook. 
+The scripts exists in two flavors - Jupyter Notebook and pure Python scripts.
 
-## Transfer and rename mp3 files to the SD card
+## Python Scripts
+
+### Transfer and rename mp3 files to the SD card
+
+```Usage: transfer.py <source folder of mp3 files> <destination path of the SD card>```
+
+### List SD card content by mp3 tags
+
+work in progress...
+
+## Jupyther Notebook
+
+### Transfer and rename mp3 files to the SD card
 
 ![scripts to get going]({{ site.url }}/TonUINO-in-a-Toniebox/assets/Script1_1.jpg)
 - enter source and destination paths directly or ... 
@@ -16,6 +28,6 @@ The scripts are prepared to run in a jupyter notebook.
 ![scripts to get going]({{ site.url }}/TonUINO-in-a-Toniebox/assets/Script1_4.jpg)
 - the files are copied and renamed on the fly
 
-## List SC card content and display the mp3 tags
+## List SD card content and display the mp3 tags
 
-wip
+work in progress...
