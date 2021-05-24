@@ -31,6 +31,7 @@ To get the best formfactor possible, I used the official PCB with jumper wires t
 - a 18650 battery
 - the WAVGAT D1 mini battery shield
 
-Want to see more?
+## Want to see more?
+
 - [A look inside](https://kateiren.github.io/TonUINO-in-a-Toniebox/lookinside)
 - [Some scripts to help managing SD card content](https://kateiren.github.io/TonUINO-in-a-Toniebox/scripts)
