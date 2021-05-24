@@ -33,7 +33,7 @@ def prepareFolder(destinationPath):
             if int(entry.name) > number:
                 number = int(entry.name)
     if number == 0:
-        print("\nNo msic folder (two digit number) found.")    
+        print("\nNo music folder (two digit number) found.")    
     else:
         print("\nHighest music folder found: {0:02d}".format(number))
     number += 1

@@ -8,6 +8,8 @@ The scripts exists in two flavors - Jupyter Notebook and pure Python scripts.
 
 ```Usage: transfer.py <source folder of mp3 files> <destination path of the SD card>```
 
+![transfer.py screenshot]({{ site.url }}/TonUINO-in-a-Toniebox/assets/transfer.jpg)
+
 ### List SD card content by mp3 tags
 
 work in progress...
