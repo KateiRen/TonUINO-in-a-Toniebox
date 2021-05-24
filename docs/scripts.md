@@ -28,6 +28,6 @@ work in progress...
 ![scripts to get going]({{ site.url }}/TonUINO-in-a-Toniebox/assets/Script1_4.jpg)
 - the files are copied and renamed on the fly
 
-## List SD card content and display the mp3 tags
+### List SD card content and display the mp3 tags
 
 work in progress...
