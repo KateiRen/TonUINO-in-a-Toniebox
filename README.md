@@ -2,14 +2,20 @@
 
 A little description of how I married [TonUINO](https://www.tonuino.de/) with [Toniebox](https://tonies.de/toniebox/)
 
-## Some words on the project
+## Some words on the project itself
 
 [https://kateiren.github.io/TonUINO-in-a-Toniebox/](https://kateiren.github.io/TonUINO-in-a-Toniebox/)
 
-## Some code to help get going with the minimalistic SD Card file naming
+## Get used with the minimalistic SD Card file naming
 
 The DFMini Player has some restrictions on how to name folders (two digit numbers from 01 to 99) and audio files (001.mp3 to 255.mp3). Therefore moving files to the SD card means creating the next numbered folder as well as renaming every single audio file to be transferred.
 
 To ease the process I created a simple script and Jupyter Notebook:
 - [transfer.py](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/transfer.py)
 - [Transfer mp3 folder.ipynb](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/Transfer%20mp3%20folder.ipynb)
+
+## Print your RFID labels with this template
+
+After countless less-than-ideal prints I created this template using [Inkscape](https://inkscape.org/).
+
+A small guidance is included in the file itself. Make sure to open with [Inkscape](https://inkscape.org/) and not your browser.
