@@ -12,7 +12,7 @@ The DFMini Player has some restrictions on how to name folders (two digit number
 
 To ease the process I created two simple Python scripts:
 - [transfer.py](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/transfer.py) - copy a folder of MP3 files to the SD card and take care of all renaming
-- [listContent.py](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/listContent.py) - use embedded MP3 tags to display meaningful information for the SD card content
+- [listContent.py](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/listContent.py) - use embedded MP3 tags to display meaningful information for the SD card content, optionally create a csv file
 
  Or as an alternative Jupyter Notebooks
 - [Transfer mp3 folder.ipynb](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/Transfer%20mp3%20folder.ipynb)
