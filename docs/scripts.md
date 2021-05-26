@@ -10,17 +10,17 @@ The scripts exists in two flavors - Jupyter Notebook and pure Python scripts.
 
 ![transfer.py screenshot]({{ site.url }}/TonUINO-in-a-Toniebox/assets/transfer.jpg)
 
-### List SD card content by mp3 tags
+### List SD card content and display the mp3 tags
 
 ```Usage: listContent.py <path of the SD card>```
+or
 ```Usage: listContent.py <path of the SD card> <filename of the output csv>```
 
 ![listContent.py screenshot]({{ site.url }}/TonUINO-in-a-Toniebox/assets/listContent.jpg)
 
-
 ## Jupyther Notebook
 
-### Transfer and rename mp3 files to the SD card
+### Transfer and rename mp3 files to the SD card V2
 
 ![scripts to get going]({{ site.url }}/TonUINO-in-a-Toniebox/assets/Script1_1.jpg)
 - enter source and destination paths directly or ... 
@@ -34,6 +34,6 @@ The scripts exists in two flavors - Jupyter Notebook and pure Python scripts.
 ![scripts to get going]({{ site.url }}/TonUINO-in-a-Toniebox/assets/Script1_4.jpg)
 - the files are copied and renamed on the fly
 
-### List SD card content and display the mp3 tags
+### List SD card content and display the mp3 tags V2
 
 work in progress...
