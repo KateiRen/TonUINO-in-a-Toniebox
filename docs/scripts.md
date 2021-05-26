@@ -18,7 +18,7 @@ or
 
 ![listContent.py screenshot]({{ site.url }}/TonUINO-in-a-Toniebox/assets/listContent.jpg)
 
-## Jupyther Notebook
+## Jupyter Notebook
 
 ### Transfer and rename mp3 files to the SD card V2
 
