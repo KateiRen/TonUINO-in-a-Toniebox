@@ -1,4 +1,4 @@
-![TonuINO in a Toniebox - Front]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210523_100616_320.png)
+# ![TonuINO in a Toniebox - Front]({{ site.url }}/TonUINO-in-a-Toniebox/assets/IMG_20210523_100616_320.png)
 
 ## Why?
 
@@ -7,7 +7,6 @@ I love the simplicity and ruggedized/soft enclosure of [Toniebox](https://tonies
 On the other hand, [TonUINO](https://www.tonuino.de/) seems to provide the perfect alternative for hobbyists with a soldering iron and some knowledge of electronics.
 
 So the idea was born to build a [TonUINO](https://www.tonuino.de/) inside the enclosure of a [Toniebox](https://tonies.de/toniebox/). I bought a malfunctioning box on ebay put it in a drawer and - almost a year later ¯\\_(ツ)_/¯ - started to implement the idea. 
-
 
 ## Features
 
