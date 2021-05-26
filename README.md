@@ -14,7 +14,7 @@ To ease the process I created a simple script and Jupyter Notebook:
 - [transfer.py](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/transfer.py)
 - [Transfer mp3 folder.ipynb](https://github.com/KateiRen/TonUINO-in-a-Toniebox/blob/main/src/Transfer%20mp3%20folder.ipynb)
 
-## Print your RFID labels with this template
+## Print your RFID labels
 
 After countless less-than-ideal prints I created this template using [Inkscape](https://inkscape.org/).
 
