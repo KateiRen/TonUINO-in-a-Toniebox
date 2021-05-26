@@ -35,3 +35,4 @@ Not sure if I would recommend this approach - a bigger box would at least provid
 - The initial idea of using a power switch with a built in LED had to be rejected. The frame between the inner square and the outer assembling groove is too narrow.
 - However some kind of LED would be quite useful to indicate power on when no playback is running...
 
+[Back to index]({{ site.url }}/TonUINO-in-a-Toniebox/)
