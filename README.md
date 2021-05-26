@@ -4,7 +4,7 @@ A little description of how I married [TonUINO](https://www.tonuino.de/) with [T
 
 ## Some words on the project itself
 
-### [https://kateiren.github.io/TonUINO-in-a-Toniebox/](https://kateiren.github.io/TonUINO-in-a-Toniebox/)
+### [Website](https://kateiren.github.io/TonUINO-in-a-Toniebox/)
 
 ## Get used with the minimalistic SD Card file naming
 
