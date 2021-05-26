@@ -12,7 +12,11 @@ The scripts exists in two flavors - Jupyter Notebook and pure Python scripts.
 
 ### List SD card content by mp3 tags
 
-work in progress...
+```Usage: listContent.py <path of the SD card>```
+```Usage: listContent.py <path of the SD card> <filename of the output csv>```
+
+![listContent.py screenshot]({{ site.url }}/TonUINO-in-a-Toniebox/assets/listContent.jpg)
+
 
 ## Jupyther Notebook
 
